@@ -11,7 +11,8 @@ header{
     background: #2C2C2C;
 }
 h1{
-    font-size: 3em;
+    color: #4F8A21;
+    font-size: 3.5em;
 }
 .wrapper {
     display: grid;
@@ -20,7 +21,7 @@ h1{
     grid-gap: 10px;
 }
 .container {
-    font-size: 2em;
+    font-size: 1.5em;
     background-color: #2C2C2C;
     color: #4F8A21;
     line-height: 2;
@@ -37,3 +38,6 @@ h1{
     left: 0;
     z-index: 1;
   }
+.logout{
+    float: inline-end;
+}

@@ -39,5 +39,5 @@ h1{
     z-index: 1;
   }
 .logout{
-    float: inline-end;
+    float: right;
 }

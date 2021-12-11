@@ -16,6 +16,7 @@ h1{
 }
 img.content{
     max-width: 70%;
+    max-height: 48%;
 }
 .wrapper {
     display: grid;

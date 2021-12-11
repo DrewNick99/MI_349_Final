@@ -14,7 +14,7 @@ h1{
     color: #4F8A21;
     font-size: 3.5em;
 }
-img.container{
+img.content{
     max-width: 70%;
 }
 .wrapper {
@@ -47,8 +47,8 @@ img.container{
   }
 .logout{
     position: absolute;
-    top: 10%;
-    right: 10px;
+    top: 15%;
+    right: 50px;
 }
 button.logout{
     width: 200px;

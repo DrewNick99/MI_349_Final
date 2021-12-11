@@ -24,7 +24,6 @@ img.container{
     grid-gap: 10px;
 }
 .container {
-    width: 243px;
     height: 275px;
     display: flex;
     justify-content: center;

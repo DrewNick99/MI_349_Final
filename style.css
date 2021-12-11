@@ -25,6 +25,7 @@ img.content{
     grid-gap: 30px;
 }
 .container {
+    padding-top: 50px;
     height: 275px;
     display: flex;
     justify-content: center;
@@ -39,6 +40,7 @@ img.content{
     position: relative;
 }
 .create{
+    margin-top: 50px;
     padding-top: 50px;
     height: 275px;
     display: flex;

@@ -42,8 +42,6 @@ img.content{
 .explainer{
     padding-top: 50px;
     height: 275px;
-    display: flex;
-    justify-content: center;
     font-size: 1.5em;
     background-color: #C4C4C4;
     color: #000000;

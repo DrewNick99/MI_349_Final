@@ -25,6 +25,7 @@ img{
     grid-gap: 10px;
 }
 .container {
+    height: 500px;
     display: flex;
     justify-content: center;
     font-size: 1.5em;

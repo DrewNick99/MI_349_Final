@@ -51,3 +51,7 @@ button.logout{
     font-family: 'Courier New', Courier, monospace;
     color: #000000;
 }
+.feature{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3em;
+}

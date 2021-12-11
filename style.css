@@ -5,17 +5,24 @@ body{
     font-family:'Courier New', Courier, monospace;
     margin: 40px;
     padding: 40px;
-    color: #4F8A21;
+    color: #000000;
 }
 header{
     background: #2C2C2C;
 }
+h1{
+    font-size: 3em;
+}
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 100px 100px;
+    grid-gap: 10px;
+}
 .container {
-    font-size: 5em;
+    font-size: 2em;
     background-color: #2C2C2C;
     color: #4F8A21;
-    width: 8em;
-    height: 2em;
     line-height: 2;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;

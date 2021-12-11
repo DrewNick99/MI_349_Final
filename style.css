@@ -39,6 +39,7 @@ img.content{
     position: relative;
 }
 .create{
+    padding-top: 50px;
     height: 275px;
     display: flex;
     justify-content: center;

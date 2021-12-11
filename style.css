@@ -22,7 +22,7 @@ img.content{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 100px 100px;
-    grid-gap: 10px;
+    grid-gap: 30px;
 }
 .container {
     height: 275px;

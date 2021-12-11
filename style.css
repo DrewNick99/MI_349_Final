@@ -14,7 +14,7 @@ h1{
     color: #4F8A21;
     font-size: 3.5em;
 }
-img{
+img.container{
     width: 70%;
     height: 70%;
 }
@@ -25,7 +25,7 @@ img{
     grid-gap: 10px;
 }
 .container {
-    height: 500px;
+    height: 400px;
     display: flex;
     justify-content: center;
     font-size: 1.5em;
@@ -34,6 +34,7 @@ img{
     line-height: 2;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
     cursor: pointer;
     position: relative;
 }
@@ -61,4 +62,5 @@ button.logout{
 .feature{
     font-family: 'Courier New', Courier, monospace;
     font-size: 3em;
+    font-weight: bold;
 }

@@ -80,6 +80,9 @@ img.content{
     top: 15%;
     right: 50px;
 }
+button{
+    cursor: pointer;
+}
 button.logout{
     width: 200px;
     height: 50px;
@@ -91,5 +94,16 @@ button.logout{
 .feature{
     font-family: 'Courier New', Courier, monospace;
     font-size: 3em;
+    font-weight: bold;
+}
+.createxplained{
+    padding-top: 50px;
+    height: 275px;
+    font-size: 1.5em;
+    background-color: #C4C4C4;
+    color: #000000;
+    line-height: 2;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
 }

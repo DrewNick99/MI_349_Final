@@ -14,6 +14,10 @@ h1{
     color: #4F8A21;
     font-size: 3.5em;
 }
+img{
+    width: 70%;
+    height: 70%;
+}
 .wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -21,6 +25,8 @@ h1{
     grid-gap: 10px;
 }
 .container {
+    display: flex;
+    justify-content: center;
     font-size: 1.5em;
     background-color: #2C2C2C;
     color: #4F8A21;

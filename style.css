@@ -21,7 +21,7 @@ img.content{
 .wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: 100px 100px;
+    grid-template-rows: 275px 275px;
     grid-gap: 30px;
 }
 .container {

@@ -15,8 +15,8 @@ h1{
     font-size: 3.5em;
 }
 img.container{
-    width: 70%;
-    height: 70%;
+    width: 205px;
+    height: 139px;
 }
 .wrapper {
     display: grid;

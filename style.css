@@ -15,8 +15,8 @@ h1{
     font-size: 3.5em;
 }
 img.container{
-    width: 205px;
-    height: 139px;
+    width: 70%;
+    height: 48%;
 }
 .wrapper {
     display: grid;
@@ -25,7 +25,8 @@ img.container{
     grid-gap: 10px;
 }
 .container {
-    height: 400px;
+    width: 243px;
+    height: 275px;
     display: flex;
     justify-content: center;
     font-size: 1.5em;
